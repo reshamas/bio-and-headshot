@@ -10,7 +10,7 @@ She is an organizer of the meetups group [Data Umbrella](https://www.dataumbrell
 LinkedIn:  https://www.linkedin.com/in/reshamas/  
 Twitter: https://twitter.com/reshamas  (@reshamas)  
 Blog:  https://reshamas.github.io  
-GitHub:  https://github.com/reshamas
+GitHub:  https://github.com/reshamas  
 Medium: https://medium.com/@reshamas
 
 
