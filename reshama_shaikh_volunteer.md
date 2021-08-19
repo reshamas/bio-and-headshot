@@ -1,7 +1,8 @@
 
 # Community 
 
-## Data Umbrella:  Founder and organizer, from 2019 to present
+## [Data Umbrella](https://www.dataumbrella.org/home):  Founder and Organizer
+- from 2019 to present
 - Organize events and webinars
 - Share community events
 - Create resources
@@ -15,7 +16,7 @@
 - Organized dozens of events for community; mentored new organizers (ref: https://www.meetup.com/NYC-PyLadies/events/past/)
 - IWD Campaign: social media campaign to celebrate women in python
 
-## [NYC Women in Machine Learning & Data Science](http://wimlds.org): Board Member, Global Team Member, Chapter Organizers
+## [NYC WiMLDS](http://wimlds.org): Board Member, Global Team Member, Chapter Organizer
 - from 2015 to 2020
 - Organized 24+ events for the community over 5 year period; (ref:  https://reshamas.github.io/moving-on-from-wimlds/)
 - Data Umbrella (Dec 2019 to present) lead organizer of community events
