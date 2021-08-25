@@ -3,14 +3,16 @@
 
 ## [Data Umbrella](https://www.dataumbrella.org/home):  Founder and Organizer
 - from 2019 to present
-- Lead organizer of community events (ref:  https://www.dataumbrella.org/events)
+- Lead organizer of community events (ref:  https://www.meetup.com/data-umbrella/events/past/)
 - Organize events and webinars
 - Share community events
 - Create resources
 - Develop partnerships with other community organizations
 
 ## [scikit-learn](https://scikit-learn.org/stable/about.html):  Triage Team Member
+- Triage Team Member:  2020 to present
 - Organize scikit-learn [sprints](https://www.dataumbrella.org/sprints/sprints)
+  - Have organized 10 scikit-learn open source sprints from 2017 to present
 
 ## [New York City PyLadies](https://nyc.pyladies.com):  Meetup Group Organizer
 - from 2017 to present
