@@ -1,7 +1,7 @@
 
 # Community 
 
-## [Data Umbrella](https://www.dataumbrella.org/home):  Founder and Organizer
+## [Data Umbrella](https://www.dataumbrella.org/home):  Founder and Executive Director
 - from 2019 to present
 - Lead organizer of community events (ref:  https://www.meetup.com/data-umbrella/events/past/)
 - Organize events and webinars
@@ -13,13 +13,14 @@
 - Triage Team Member:  2020 to present
 - Organize scikit-learn [sprints](https://www.dataumbrella.org/sprints/sprints)
   - Have organized 10 scikit-learn open source sprints from 2017 to present
+  - 5 of the sprints have been international (Nairobi in-person, Online Global, Latin America online, Africa & Middle East online)
 
 ## [New York City PyLadies](https://nyc.pyladies.com):  Meetup Group Organizer
 - from 2017 to present
 - Organized dozens of events for community; mentored new organizers (ref: https://www.meetup.com/NYC-PyLadies/events/past/)
 - IWD Campaign: social media campaign to celebrate women in python
 
-## [NYC WiMLDS](http://wimlds.org): Board Member, Global Team Member, Chapter Organizer
+## [Women in Machine Learning & Data Science](http://wimlds.org): Board Member, Global Team Member, Chapter Organizer
 - from 2015 to 2020
 - Organized 24+ events for the community over 5 year period; (ref:  https://reshamas.github.io/moving-on-from-wimlds/)
 
