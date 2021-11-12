@@ -12,6 +12,8 @@ Twitter: https://twitter.com/reshamas  (@reshamas)
 Blog:  https://reshamas.github.io  
 GitHub:  https://github.com/reshamas  
 Medium: https://medium.com/@reshamas
+ORCID: https://orcid.org/0000-0003-4162-4453
+
 
 
 
