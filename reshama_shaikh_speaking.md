@@ -1,10 +1,19 @@
 # Reshama Shaikh: Speaking Engagements
 
 ## Talks
+1. DataCamp podcast kickoff, data science (Jan 2018)
 
 
 
 ## Panel Talks
+1. Python Meetup Group, MongoDB, CFP  (July 2017)
+1. Learn Python, CFP, Microsoft
+1. Neo4j, Inspirational Community Leaders, Sep 2018
+1. Meetup / Microsoft (at WeWork), AI and Community, Oct 2018
+1. Write/Speak/Code, creating a successful tech meetup, 2019
+1. WiDS @SAP (March 2019) (MODERATOR)
+1. AI NextCON, July 2019 (MODERATOR)
+
 
 ## Git Workshops Given by Reshama Shaikh
 
