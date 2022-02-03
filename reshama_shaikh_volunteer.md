@@ -69,8 +69,8 @@
 - Panel discussion on diversity
 
 ## [NumFOCUS DISC Unconference](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/): Diversity Committee
-#### Aug 2017 - Dec 2017  (one of 3 organizers)
-- Co-organized a 40 person conference with folks traveling internationally
+#### Aug 2017 - Dec 2017 
+- Co-organized a 40-person conference with folks traveling internationally
 - Reviewed applications
 - Created documentation for Git and other technologies for conference participants
 - Had prep calls
