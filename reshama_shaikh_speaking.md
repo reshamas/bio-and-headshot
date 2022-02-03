@@ -4,10 +4,10 @@
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn) of 20 talks
   - AI NextCON, July 2019 (MODERATOR)
 - Talks not on playlist
-  - [What We Love About Python: A PyLadies Panel Discussion](https://www.meetup.com/Seattle-PyLadies/events/270466637/), (May 2020) (not on playlist)
-  - [WiDS SAP] New York, NY (not on playlist)
-  - DataCamp podcast kickoff, data science at Two Sigma in New York, NY (Jan 2018) (not on playlist)
-  - PyGotham 2017 (not on playlist) | [GitHub repo content](https://github.com/reshamas/pygotham-2016)
+  - [What We Love About Python: A PyLadies Panel Discussion](https://www.meetup.com/Seattle-PyLadies/events/270466637/), (May 2020)  
+  - Women in Data Science (WiDS) at SAP, New York, NY  
+  - DataCamp podcast kickoff, data science at Two Sigma in New York, NY (Jan 2018)  
+  - PyGotham 2017  | [GitHub repo content](https://github.com/reshamas/pygotham-2016) 
   - Python Meetup Group, MongoDB, CFP  (July 2017)
   - Learn Python, CFP, Microsoft
   - Neo4j, Inspirational Community Leaders, Sep 2018
