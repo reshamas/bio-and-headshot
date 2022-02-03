@@ -17,7 +17,8 @@
 
 ## Python Software Foundation: [Code of Conduct Committee](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are)
 #### Jul 2020 - Jun 2021
-- review incident reports and make recommendations
+- review incident reports
+- make recommendations in biweekly committee meetings
 
 ## [New York City PyLadies](https://nyc.pyladies.com):  Meetup Group Organizer
 #### 2017 to present
