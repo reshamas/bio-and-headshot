@@ -12,6 +12,7 @@ Blog:  https://reshamas.github.io
 GitHub:  https://github.com/reshamas  
 Medium: https://medium.com/@reshamas  
 YouTube: https://www.youtube.com/channel/UCg4KQCow9KAqrAmKb0SxXUA
+Insta: https://www.instagram.com/aqaba07/
 ORCID: https://orcid.org/0000-0003-4162-4453
 
 ## Background
