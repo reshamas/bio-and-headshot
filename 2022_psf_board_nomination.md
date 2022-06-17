@@ -1,13 +1,17 @@
 # 2022 PSF Board Nomination Statement
 
-## Introduction
+## Introduction & Background
 My name is Reshama, and I live in New York City.  I was born in India and moved to the United States when I was six.  One of the benefits of straddling the East and West in culture, language and religion is that it provides an added global perspective to my life. Which in turn impacts how I see the world and my place and contributions in it.  And it is particularly what makes me passionate about open source and python, because it connects the world in a positive way and holds no political or geographic boundaries.  
 
-I have been using python since 2012, I converted from being an Rstats and SAS user. I have contributed extensively to the community, both in education and also in supporting people from typically underrepresented groups.  Below is a subset of my contributions.
+I have been using python since 2012, I converted from being an Rstats and SAS user. I have contributed extensively to the community, both in education and also in supporting people from typically underrepresented groups.  I also wrote the viral blog [Why Women are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/), which was considered evocative by many, though by me it was a deep dive with statistical perspective into dimensions related to the R and Python communities.  
 
-## Background
+### Community Award
+In 2019, I received the [NumFOCUS 2019 Community Service Award](https://numfocus.org/blog/2019-numfocus-awards)
+>Reshama was selected to receive this award in acknowledgment of the strong positive impact she has had in diversifying the NumFOCUS community, particularly by focusing on the inclusion of more women. She served on the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Steering Committee from 2017-2019 and has exemplified leadership by producing thoughtful, thought-provoking, and data-driven blogs that challenge the community to look squarely at our diversity problem and take action to correct it. Reshama was also instrumental in developing open source contributing sprints as a partnership between scikit-learn and Women in Machine Learning and Data Science, in an effort to get more women involved in the machine learning community.
 
 ##  Community Contributions
+Below is a subset of my community contributions. 
+
 - Data Umbrella (2019-present): I founded a community for underrepresented persons in data science.   I have built a wonderful team of contributors and within only 2.5 years (almost all during the pandemic), we have accomplished so much.  We have organized 6 open source sprints for the scikit-learn and PyMC python libraries and over 50 online events; our YouTube channel has over 1.5K subscribers.  
 - [New York City chapter of PyLadies](https://nyc.pyladies.com): From 2017 to present, I have been a very active organizer to the NYC chapter.  The NYC chapter is the 3rd largest PyLadies chapter worldwide.  I was instrumental in reviving a dormant chapter, mentoring new organizers and initiating the International Women's Day social media highlight campaigns in 2019 and 2020. 
 - Between 2016 and 2020, I gave over 15 [Git Workshops](https://github.com/reshamas/git-intro-workshop/blob/master/git-workshops.MD) to the community to alleviate the barrier that not having Git skills is to open source and career development.
@@ -23,9 +27,6 @@ I have been using python since 2012, I converted from being an Rstats and SAS us
 - scikit-learn:  Contributing Team
 - PyMC:  Contributing Team
 
-## Community Award
-In 2019, I received the [NumFOCUS 2019 Community Service Award](https://numfocus.org/blog/2019-numfocus-awards)
->Reshama was selected to receive this award in acknowledgment of the strong positive impact she has had in diversifying the NumFOCUS community, particularly by focusing on the inclusion of more women. She served on the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Steering Committee from 2017-2019 and has exemplified leadership by producing thoughtful, thought-provoking, and data-driven blogs that challenge the community to look squarely at our diversity problem and take action to correct it. Reshama was also instrumental in developing open source contributing sprints as a partnership between scikit-learn and Women in Machine Learning and Data Science, in an effort to get more women involved in the machine learning community.
 
 ## Goals
 
