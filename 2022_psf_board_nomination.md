@@ -6,11 +6,12 @@ Passions:  statistics, data science, python, open source
 ## Background
 
 ##  Community Contributions
-- Git Workshops
+- Data Umbrella (2019-present)
+- - Git Workshops
 - NYC PyLadies
-- WiMLDS
-- Data Umbrella
-- JupyterCon 2020 Diversity Chair
+- Women in Machine Learning & Data Science (WiMLDS): 
+
+- JupyterCon 2020 Diversity Chair (Jan 2020
 - Blogs
 - PyCon DE Keynote
 - Open Source Sprints
