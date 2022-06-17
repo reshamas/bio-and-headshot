@@ -21,6 +21,7 @@ Passions:  statistics, data science, python, open source
 - ICML: communications
 - scikit-learn:  Contributing Team
 - PyMC:  Contributing Team
+- Talks (Plotly, Git, Diversity, etc.)
 
 ## Goals
 
