@@ -1,7 +1,9 @@
 # 2022 PSF Board Nomination Statement
 
 ## Introduction
-Passions:  statistics, data science, python, open source
+My name is Reshama, and I live in New York City.  I was born in India and moved to the United States when I was six.  One of the benefits of straddling the East and West in culture, language and religion is that it provides an added global perspective to my life. Which in turn impacts how I see the world and my place and contributions in it.  And it is particularly what makes me passionate about open source and python, because it connects the world in a positive way and holds no political or geographic boundaries.  
+
+I have been using python since 2012, I converted from being an Rstats and SAS user. I have contributed extensively to the community, both in education and also in supporting people from typically underrepresented groups.  Below is a subset of my contributions.
 
 ## Background
 
