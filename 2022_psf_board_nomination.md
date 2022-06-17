@@ -19,7 +19,7 @@ Below is a subset of my community contributions.
 - Women in Machine Learning & Data Science (WiMLDS): (2015-2020) Board Member, Global Leadership Team Member and New York City chapter organizer. I organizer over 2 dozen events and 5 open source sprints in New York City, Nairobi and San Francisco.  [WiMLDS list of contributions](https://reshamas.github.io/moving-on-from-wimlds/)
 - Blogs:  I have written dozens of blogs on topics related to python, data science and diversity and inclusions.  A number of my blogs have over 10K visits.
 - Open Source Sprints [PyCon DE Keynote: 5 Years, 10 Sprints, a scikit-learn Open Source Journey](https://youtu.be/ZUqJaCWPvmk); this keynote summarizes the trials, tribulations and joys of organizing a series of sprints, around the world. 
-- NumFOCUS [Diversity in Scientific Computing Committee](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/)  2017-2019
+- NumFOCUS [Diversity in Scientific Computing (DISC) Steering Committee](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/)  2017-2019
 - Community Talks:  I've given a number of talks on Python, plotly, git and diversity over the years.  Partial list is on YouTube [playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn)
 - Resources: have created commmunity resources on my website and GitHub with tutorials, blogs and documentation. 
 - PSF CoC Workgroup:  2020-2021
