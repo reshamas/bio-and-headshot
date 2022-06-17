@@ -28,17 +28,24 @@ Passions:  statistics, data science, python, open source
 
 ## Conclusion
 
+## Education & Work Background
+
+
+
 ## More Information About My Work
 - Blog:  https://reshamas.github.io  
 - LinkedIn:  https://www.linkedin.com/in/reshamas/  
 - Twitter: https://twitter.com/reshamas  (@reshamas)  
 - GitHub:  https://github.com/reshamas  
 - YouTube: https://www.youtube.com/channel/UCg4KQCow9KAqrAmKb0SxXUA
+- Medium:  Medium: https://medium.com/@reshamas  
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=LBoPoO4AAAAJ
 
+---
 
 ## For Internal Reference
 - 2022 PSF Board Nominees:  https://www.python.org/nominations/elections/2022-python-software-foundation-board/nominees/
 - 30-minute video; Life as a Python Software Foundation Director https://youtu.be/ZLKj6FaQA4M
 - PSF Board History:  https://www.python.org/psf/records/board/history/
 - PSF Elections:  https://www.python.org/nominations/elections/
-- 
+
