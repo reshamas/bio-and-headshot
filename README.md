@@ -6,12 +6,14 @@ Reshama Shaikh is the Executive Director of [Data Umbrella](https://www.dataumbr
 
 Reshama is a statistician/data scientist with skills in Python, R and SAS. She earned her M.S. in statistics from Rutgers University.  She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
 
-LinkedIn:  https://www.linkedin.com/in/reshamas/  
-Twitter: https://twitter.com/reshamas  (@reshamas)  
-Blog:  https://reshamas.github.io  
-GitHub:  https://github.com/reshamas  
-Medium: https://medium.com/@reshamas  
-YouTube: https://www.youtube.com/channel/UCg4KQCow9KAqrAmKb0SxXUA
+- Blog:  https://reshamas.github.io  
+- LinkedIn:  https://www.linkedin.com/in/reshamas/  
+- Twitter: https://twitter.com/reshamas  (@reshamas)  
+- GitHub:  https://github.com/reshamas  
+- YouTube: https://www.youtube.com/channel/UCg4KQCow9KAqrAmKb0SxXUA
+- Medium:  Medium: https://medium.com/@reshamas  
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=LBoPoO4AAAAJ
+
 Insta: https://www.instagram.com/aqaba07/
 ORCID: https://orcid.org/0000-0003-4162-4453
 
