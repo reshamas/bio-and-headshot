@@ -1,9 +1,9 @@
 # 2022 PSF Board Nomination Statement
 
 ## Introduction & Background
-My name is Reshama, and I live in New York City.  I was born in India and moved to the United States when I was six.  One of the benefits of straddling the East and West in culture, language and religion is that it provides an added global perspective to my life. Which in turn impacts how I see the world and my place and contributions in it.  And it is particularly what makes me passionate about open source and python, because it connects the world in a positive way and holds no political or geographic boundaries.  
+My name is Reshama, and I live in New York City.  I was born in India and moved to the United States when I was six.  One of the benefits of straddling the East and West in culture, language and religion is that it provides an added global perspective to my life. This in turn impacts how I see the world and my place and contributions in it.  And it is particularly what makes me passionate about open source and python, because it connects the world in a positive way and holds no political or geographic boundaries.  
 
-I have been using python since 2012, I converted from being an Rstats and SAS user. I have contributed extensively to the community, both in education and also in supporting people from typically underrepresented groups.  I also wrote the viral blog [Why Women are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/), which was considered evocative by many, though by me it was a deep dive with statistical perspective into dimensions related to the R and Python communities.  
+I have been using python since 2012, I converted from being an Rstats and SAS user. I have contributed extensively to the community, both in education and also in supporting people from typically underrepresented groups.  I also wrote the viral blog [Why Women are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/), which was considered evocative by many, though by me it was an objective deep dive with statistical perspective into dimensions related to the R and Python communities.  
 
 ### Community Award
 In 2019, I received the [NumFOCUS 2019 Community Service Award](https://numfocus.org/blog/2019-numfocus-awards)
@@ -23,14 +23,18 @@ Below is a subset of my community contributions.
 - Community Talks:  I've given a number of talks on Python, plotly, git and diversity over the years.  Partial list is on YouTube [playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn)
 - Resources: have created commmunity resources on my website and GitHub with tutorials, blogs and documentation. 
 - PSF CoC Workgroup:  2020-2021
+- SciPy:  (2019) Data Driven Discoveries Track co-chair
 - ICML: Communications
 - scikit-learn:  Contributing Team
 - PyMC:  Contributing Team
 
-
 ## Goals
-
-## Conclusion
+- Have the PSF be more connected to the community. 
+- Provide an avenue for the community to be connected to PSF for those folks who do not attend PyCon, like me (I have never attended a PyCon or SciPy).
+- Support underrepresented persons in the python community.
+- Increase the global reach of the PSF.  
+- Provide more python resources for the community.
+- Increase open source literacy in the community.  
 
 ## Education & Work Background
 - 10+ years experience as a biostatistician in the pharmaceutical industry
