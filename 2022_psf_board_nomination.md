@@ -48,7 +48,7 @@ Below is a subset of my community contributions.
 - Twitter: https://twitter.com/reshamas  (@reshamas)  
 - GitHub:  https://github.com/reshamas  
 - YouTube: https://www.youtube.com/channel/UCg4KQCow9KAqrAmKb0SxXUA
-- Medium:  Medium: https://medium.com/@reshamas  
+- Medium:  https://medium.com/@reshamas  
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=LBoPoO4AAAAJ
 
 ---
