@@ -3,7 +3,7 @@
 ## Introduction & Background
 My name is Reshama (she/her), and I live in New York City.  I was born in India and moved to the United States when I was six.  One of the benefits of straddling the East and West in culture, language and religion is that it provides an added global perspective to my life. This in turn impacts how I see the world and my place and contributions within it.  And it is what makes me particularly passionate about open source and Python, because they connect the world in a positive way and are unconstrained by political or geographic boundaries.  
 
-As a statistician, I began my career in the 90's using SAS and Rstats. I have been using Python since 2012; the conversion from R/SAS to Python was both bumpy and irresistible, because python is so alluring.  
+As a statistician, I began my career using SAS and Rstats, in the 90's. I have been using Python since 2012; the conversion from R/SAS to Python was both bumpy and irresistible, because python is so alluring.  
 
 I have contributed extensively to the community, both in education and in supporting people from typically underrepresented groups.  I also wrote the viral blog [Why Women are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/), which was considered provocative by many, though by me it was an objective deep dive with statistical perspective into dimensions related to the R and Python communities.  
 
