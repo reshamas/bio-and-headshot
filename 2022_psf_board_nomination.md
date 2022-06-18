@@ -5,7 +5,7 @@ My name is Reshama (she/her), and I live in New York City.  I was born in India 
 
 As a statistician, I began my career using SAS and Rstats, in the 90's. I have been using Python since 2012; the conversion from R/SAS to Python was both bumpy and irresistible, because python is so alluring.  
 
-I have contributed extensively to the community, both in education and in supporting people from typically underrepresented groups.  I also wrote the viral blog [Why Women are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/), which was considered provocative by many, though by me it was an objective deep dive with statistical perspective into dimensions related to the R and Python communities.  
+I have contributed extensively to the community, both in education and in supporting people from typically underrepresented groups.  I also wrote the viral blog [Why Women are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/), which was considered by many to be provocative, though by me it was an objective deep dive with statistical perspective into dimensions related to the R and Python communities.  
 
 ### Community Award
 In 2019, I received the [NumFOCUS 2019 Community Service Award](https://numfocus.org/blog/2019-numfocus-awards)
