@@ -21,7 +21,7 @@ Below is a subset of my community contributions.
 - [Blogs](https://reshamas.github.io):  I have written dozens of blogs on topics related to Python, data science and diversity and inclusions.  A number of my blogs have over 10K visits.
 - Open Source Sprints [PyCon DE Keynote: 5 Years, 10 Sprints, a scikit-learn Open Source Journey](https://youtu.be/ZUqJaCWPvmk); this keynote summarizes the trials, tribulations and joys of organizing a series of sprints, around the world. 
 - NumFOCUS [Diversity in Scientific Computing (DISC) Steering Committee](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/)  2017-2019
-- Community Talks:  I've given a number of talks on Python, plotly, git and diversity over the years.  Partial list is on YouTube [playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn)
+- Community Talks:  I've given a number of talks on Python, plotly, git and diversity over the years, many of which are available on the YouTube [playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn).
 - Resources: have created commmunity resources on my website and GitHub with tutorials, blogs and documentation. 
 - PSF CoC Workgroup: (2020-2021)
 - Partnership on AI, ABOUT ML Steering Committee: (2019-2020) [Facial Recognition Workgroup](https://www.partnershiponai.org/new-partners-to-bolster-perspective-for-responsible-ai/)
