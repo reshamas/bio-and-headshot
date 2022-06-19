@@ -16,7 +16,7 @@ In 2019, I received the [NumFOCUS 2019 Community Service Award](https://numfocus
 
 ##  Community Contributions
 Below is a subset of my community contributions. 
-- [New York City chapter of PyLadies](https://nyc.pyladies.com): (2017-present) I have been a very active organizer to the NYC chapter for the past five years.  The NYC chapter is the 3rd largest PyLadies chapter worldwide.  I was instrumental in reviving a dormant chapter, mentoring new organizers and initiating the International Women's Day social media highlight campaigns in 2019 and 2020. I initiated and project managed the [PyLadies Dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html) which provides an interface to easily access Meetup data which is beneficial for the community and the PSF. Another significant PyLadies contribution is my [video](https://youtu.be/GgCB0-EjSnY) and [blog](https://reshamas.github.io/2021-state-of-pyladies/) on the "2021 State of PyLadies" to celebrate this organizations 10-year anniversary.
+- [New York City chapter of PyLadies](https://nyc.pyladies.com): (2017-present) I have been a very active organizer to the NYC chapter for the past five years.  The NYC chapter is the 3rd largest PyLadies chapter worldwide.  I was instrumental in reviving a dormant chapter, mentoring new organizers and initiating the International Women's Day social media highlight campaigns in 2019 and 2020. I initiated and project managed the [PyLadies Dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html) which provides an interface to easily access Meetup data which is beneficial for the community and the PSF. Another significant PyLadies contribution is my [video](https://youtu.be/GgCB0-EjSnY) and [blog](https://reshamas.github.io/2021-state-of-pyladies/) on the "2021 State of PyLadies" to celebrate this organization's 10-year anniversary.
 - [Git Workshops](https://github.com/reshamas/git-intro-workshop/blob/master/git-workshops.MD): Between 2016 and 2020, I gave over 15 Git workshops to the community to alleviate the barrier that not having Git skills is to open source and career development.
 - [JupyterCon 2020](https://jupytercon.com) Diversity Chair (Jan-Oct 2020). Through my research and experience in diversity and community work, I discovered and invited world-renowned researcher in racial justice and equity [Tema Okun as a Keynote Speaker](https://blog.jupyter.org/tema-okun-a7e5f1f0cd05) to this conference. 
 - [Women in Machine Learning & Data Science (WiMLDS)](https://reshamas.github.io/moving-on-from-wimlds/): (2015-2020) Board Member, Global Leadership Team Member and New York City chapter organizer. I organized over 2 dozen events and 5 open source sprints in New York City, Nairobi and San Francisco.  
@@ -31,7 +31,7 @@ Below is a subset of my community contributions.
 - ICML Communications: (2016-present)
 - scikit-learn Contributor: (2016-present)
 - scikit-learm Contributing Team: (2020-present)
-- PyMC Contributing Team: (2020-present)
+- PyMC Contributing Team: (2022-present)
 
 ## Goals
 - Have the PSF be more connected to the community. 
