@@ -12,10 +12,10 @@ Reshama is a statistician/data scientist with skills in Python, R and SAS. She e
 - GitHub:  https://github.com/reshamas  
 - YouTube: https://www.youtube.com/channel/UCg4KQCow9KAqrAmKb0SxXUA
 - Medium:  Medium: https://medium.com/@reshamas  
-- Google Scholar: https://scholar.google.com/citations?hl=en&user=LBoPoO4AAAAJ
+- Insta: https://www.instagram.com/aqaba07/
 
-Insta: https://www.instagram.com/aqaba07/
-ORCID: https://orcid.org/0000-0003-4162-4453
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=LBoPoO4AAAAJ
+- ORCID: https://orcid.org/0000-0003-4162-4453
 
 ## Background
 
