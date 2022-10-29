@@ -1,8 +1,15 @@
 # bio-and-headshot
 
+## Bio (updated 2022-10-29)
+Reshama is a statistician/data scientist based in New York City. She has an M.S. in statistics from Rutgers University and an M.B.A. from NYU Stern School of Business.
+
+Reshama Shaikh is the Director of Data Umbrella and an organizer for NYC PyLadies. She is also on the Contributing Teams for scikit-learn and PyMC. She was awarded the Community Leadership Award from NumFOCUS in 2019 and is a Python Software Foundation Fellow.
+
+
+
 ## Bio
 
-Reshama Shaikh is the Executive Director of [Data Umbrella](https://www.dataumbrella.org). She is also on the Triage Team for [scikit-learn](https://github.com/scikit-learn/scikit-learn) and an organizer for [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+Reshama Shaikh is the Director of [Data Umbrella](https://www.dataumbrella.org). She is also on the Triage Team for [scikit-learn](https://github.com/scikit-learn/scikit-learn) and an organizer for [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 Reshama is a statistician/data scientist with skills in Python, R and SAS. She earned her M.S. in statistics from Rutgers University.  She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
 
