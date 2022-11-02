@@ -17,7 +17,7 @@ Reshama is a statistician/data scientist with skills in Python, R and SAS. She e
 - LinkedIn:  https://www.linkedin.com/in/reshamas/  
 - Twitter: https://twitter.com/reshamas  (@reshamas)  
 - GitHub:  https://github.com/reshamas  
-- YouTube: https://www.youtube.com/channel/UCg4KQCow9KAqrAmKb0SxXUA
+- YouTube: https://youtube.com/@reshamas
 - Medium:  https://medium.com/@reshamas  
 - Insta: https://www.instagram.com/aqaba07/
 
