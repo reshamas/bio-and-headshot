@@ -3,9 +3,9 @@
 ## Talks
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn) of 20+ talks
   - AI NextCON, July 2019 (MODERATOR)
-- Talks not on playlist
-  - Mount Holyoke: [Getting Connected to the Data Science Community](https://events.mtholyoke.edu/event/computer_science) (Jan 2020)
+- Talks not on playlist (not recorded)
   - PyLadies Seattle: [What We Love About Python: A PyLadies Panel Discussion](https://www.meetup.com/Seattle-PyLadies/events/270466637/), (May 2020)  
+  - Mount Holyoke: [Getting Connected to the Data Science Community](https://events.mtholyoke.edu/event/computer_science) (Jan 2020)
   - WiDS New York: [Women in Data Science (WiDS) at SAP](https://www.widsconference.org/regional-events.html), New York, NY  (March 2019)
   - Meetup / Microsoft (at WeWork), AI and Community, (Oct 2018)
   - Neo4j, Inspirational Community Leaders, (Sep 2018)
