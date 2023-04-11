@@ -1,11 +1,12 @@
 # Reshama Shaikh: Speaking Engagements
 
 ## Talks
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn) of 20 talks
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir84cthbsQ_zU72sG-zUnEQn) of 20+ talks
   - AI NextCON, July 2019 (MODERATOR)
 - Talks not on playlist
-  - [What We Love About Python: A PyLadies Panel Discussion](https://www.meetup.com/Seattle-PyLadies/events/270466637/), (May 2020)  
-  - Women in Data Science (WiDS) at SAP, New York, NY  
+  - Mount Holyoke: [Getting Connected to the Data Science Community](https://events.mtholyoke.edu/event/computer_science) (Jan 2020)
+  - PyLadies Seattle: [What We Love About Python: A PyLadies Panel Discussion](https://www.meetup.com/Seattle-PyLadies/events/270466637/), (May 2020)  
+  - WiDS New York: [Women in Data Science (WiDS) at SAP](https://www.widsconference.org/regional-events.html), New York, NY  (March 2019)
   - DataCamp podcast kickoff, data science at Two Sigma in New York, NY (Jan 2018)  
   - [PyGotham 2017](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/)  | [GitHub repo content](https://github.com/reshamas/pygotham-2016) 
   - Python Meetup Group, MongoDB, CFP  (July 2017)
