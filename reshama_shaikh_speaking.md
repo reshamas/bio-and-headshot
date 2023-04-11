@@ -7,13 +7,13 @@
   - Mount Holyoke: [Getting Connected to the Data Science Community](https://events.mtholyoke.edu/event/computer_science) (Jan 2020)
   - PyLadies Seattle: [What We Love About Python: A PyLadies Panel Discussion](https://www.meetup.com/Seattle-PyLadies/events/270466637/), (May 2020)  
   - WiDS New York: [Women in Data Science (WiDS) at SAP](https://www.widsconference.org/regional-events.html), New York, NY  (March 2019)
+  - Meetup / Microsoft (at WeWork), AI and Community, (Oct 2018)
+  - Neo4j, Inspirational Community Leaders, (Sep 2018)
   - DataCamp podcast kickoff, data science at Two Sigma in New York, NY (Jan 2018)  
-  - [PyGotham 2017](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/)  | [GitHub repo content](https://github.com/reshamas/pygotham-2016) 
+  - Learn Python, CFP, Microsoft (Jan 2018)
+  - Write/Speak/Code, creating a successful tech meetup (2019)
   - Python Meetup Group, MongoDB, CFP  (July 2017)
-  - Learn Python, CFP, Microsoft
-  - Neo4j, Inspirational Community Leaders, Sep 2018
-  - Meetup / Microsoft (at WeWork), AI and Community, Oct 2018
-  - Write/Speak/Code, creating a successful tech meetup, 2019
+  - [PyGotham 2016](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/)  | [GitHub repo content](https://github.com/reshamas/pygotham-2016) (2016)
 
 
 ## Git Workshops Given by Reshama Shaikh
