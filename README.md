@@ -30,7 +30,7 @@ She began her statistical career at Educational Testing Service.  She then worke
 
 ## Bio
 * Role: 
-  * Data Umbrella:  Executive Director
+  * Data Umbrella:  Director
   * Aqaba Consulting: Statistician / Data Scientist
   * New York City PyLadies Organizer
   * Book Dash 2021 Participant
