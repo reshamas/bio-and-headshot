@@ -15,6 +15,10 @@
   - Have organized 10 scikit-learn open source sprints from 2017 to present
   - 5 of the sprints have been international (Nairobi in-person, Online Global, Latin America online, Africa & Middle East online)
 
+## Instructor for "Intro to Git"
+#### 2016 to 2020
+- [Taught Git workshops](https://github.com/reshamas/git-intro-workshop/blob/master/git-workshops.MD) to tech meetup communities in New York City
+
 ## Python Software Foundation: [Code of Conduct Committee](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are)
 #### Jul 2020 - Jun 2021
 - review incident reports
