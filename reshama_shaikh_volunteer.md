@@ -9,9 +9,16 @@
 - Create resources
 - Develop partnerships with other community organizations
 
-## [scikit-learn](https://scikit-learn.org/stable/about.html):  Triage Team Member
+## [PyMC](https://scikit-learn.org/stable/about.html):  Contributing Team
+#### 2022 to present
+- Organize scikit-learn [sprints]([https://www.dataumbrella.org/sprints/sprints](https://www.dataumbrella.org/open-source/sprint_list))
+  - Have organized 10 scikit-learn open source sprints from 2017 to present
+  - 5 of the sprints have been international (Nairobi in-person, Online Global, Latin America online, Africa & Middle East online)
+
+
+## [scikit-learn](https://scikit-learn.org/stable/about.html):  Contributing Team
 #### 2020 to present
-- Organize scikit-learn [sprints](https://www.dataumbrella.org/sprints/sprints)
+- Organize scikit-learn [sprints]([https://www.dataumbrella.org/sprints/sprints](https://www.dataumbrella.org/open-source/sprint_list))
   - Have organized 10 scikit-learn open source sprints from 2017 to present
   - 5 of the sprints have been international (Nairobi in-person, Online Global, Latin America online, Africa & Middle East online)
 
