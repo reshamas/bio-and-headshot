@@ -44,7 +44,7 @@ She began her statistical career at Educational Testing Service.  She then worke
 * GitHub id: [reshamas](http://github.com/reshamas)
 * ORCID: [0000-0003-4162-4453](https://orcid.org/0000-0003-4162-4453)
 * Short bio:
-> Reshama Shaikh is the Executive Director of [Data Umbrella](https://www.dataumbrella.org). She is also on the Triage Team for [scikit-learn](https://github.com/scikit-learn/scikit-learn) and an organizer for [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+> Reshama Shaikh is the Director of [Data Umbrella](https://www.dataumbrella.org). She is also on the Triage Team for [scikit-learn](https://github.com/scikit-learn/scikit-learn) and an organizer for [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 >Reshama is a statistician/data scientist with skills in Python, R and SAS. She earned her M.S. in statistics from Rutgers University.  She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
 
